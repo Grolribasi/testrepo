@@ -1,0 +1,13 @@
+site:
+  title: Wой Wаленький Wайт
+  start_page: mysite:kabanchik:favorites.adoc
+content:
+  sources:
+    - url: .
+      branches: main
+      start_path: ./
+ui:
+  bundle:
+    url: ./ui-bundle.zip
+output:
+  dir: mysite

@@ -1,0 +1,10 @@
+name: mysite
+version: 1
+title: Секретный компонент
+asciidoc:
+  attributes:
+    nm: 'Владимир Маркиев'
+    dty: 'Технический писатель'
+nav:
+- modules/kabanchik/nav.adoc
+start_page: kabanchik:favorites.adoc
