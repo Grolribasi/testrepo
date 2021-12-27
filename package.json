@@ -1,0 +1,13 @@
+{
+  "name": "docs-playbook",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@antora/cli": "^3.0.0",
+    "@antora/lunr-extension": "^1.0.0-alpha.1",
+    "@antora/site-generator": "^3.0.0",
+    "asciidoctor-kroki": "^0.14.0"
+  }
+}
