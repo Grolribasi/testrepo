@@ -1,2 +1,4 @@
 .Навигация
 * xref:favorites.adoc[]
+* xref:newPage.adoc[]
+* xref:test.adoc[]
