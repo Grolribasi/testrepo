@@ -2,3 +2,4 @@
 * xref:favorites.adoc[]
 * xref:newPage.adoc[]
 * xref:test.adoc[]
+* xref:change-log.adoc[]
