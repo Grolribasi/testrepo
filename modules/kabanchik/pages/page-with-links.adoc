@@ -1,0 +1,6 @@
+= Page with links
+
+* xref:change-log.adoc[]
+* xref:favorites.adoc[]
+* xref:newPage.adoc[]
+* xref:test.adoc[]
