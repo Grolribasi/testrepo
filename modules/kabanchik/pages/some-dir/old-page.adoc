@@ -6,11 +6,12 @@
 
 Виды документов подразделяются на следующие группы:
 
-* xref:newPage.adoc[входящие];
+* xref:this_is_a_page_not_a_Section.adoc[входящие];
+* xref:best_page_ever_created.adoc[]
 * xref:page-with-links.adoc[исходящие];
-* xref:test.adoc[рабочие];
-* xref:favorites.adoc[организационно-распорядительные] (ОРД);
-* xref:change-log.adoc[заявки];
-* xref:a-page.adoc[служебные записки].
+* xref:test_something_then_test_once_again.adoc[рабочие];
+* xref:favorite_thgings_in_docs.adoc[организационно-распорядительные] (ОРД);
+* xref:change_everything_log.adoc[заявки];
+* xref:a_page_something.adoc[служебные записки].
 
 Более подробно карточки и производимые с ними операции рассматриваются в разделе .
