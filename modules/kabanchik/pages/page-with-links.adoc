@@ -1,6 +1,0 @@
-= Page with links
-
-* xref:change_everything_log.adoc[]
-* xref:favorite_thgings_in_docs.adoc[]
-* xref:this_is_a_page_not_a_Section.adoc[]
-* xref:test_something_then_test_once_again.adoc[]

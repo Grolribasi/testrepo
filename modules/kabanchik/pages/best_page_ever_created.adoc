@@ -8,9 +8,7 @@
 
 * xref:this_is_a_page_not_a_Section.adoc[входящие];
 * xref:page-with-links.adoc[исходящие];
-* xref:test_something_then_test_once_again.adoc[рабочие];
 * xref:favorite_thgings_in_docs.adoc[организационно-распорядительные] (ОРД);
-* xref:change_everything_log.adoc[заявки];
 * xref:a_page_something.adoc[служебные записки].
 
 Более подробно карточки и производимые с ними операции рассматриваются в разделе .
